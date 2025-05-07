@@ -1,17 +1,33 @@
-# Data Science Lab
+# Data Science & Analysis Lab
 
-Documenting how to perform Machine Learning and Deep Learning from scratch only using Pandas and Numpy 
+A hands-on guide to building **Machine Learning** and **Deep Learning** algorithms from scratch using only **Pandas** and **Numpy**, with a strong emphasis on **Exploratory Data Analysis (EDA)**.
 
-## Overview
-- **Kaggle Competions**: Playground of my kaggle competition Models and EDA notebooks  
-- **Machine Learning**: Includes algorithms such as multiple linear regression, logistic regression, decision trees, KNN, and more, all built from the ground up using basic Python libraries.
-- **Deep Learning**: Will explores fundamental neural networks, backpropagation, activation functions, optimization algorithms, and more, using only Numpy for matrix operations and Pandas for data handling.
+Most datasets featured in this repository originate from [Kaggle](https://www.kaggle.com/), providing practical, real-world data challenges.
 
-## Features
+---
 
-- Step-by-step code for implementing various ML and DL algorithms.
-- Explanation of the math and theory behind each algorithm.
-- Data preprocessing and feature engineering using Pandas.
-- Model evaluation techniques and performance metrics.
-- No external ML/DL libraries required (other than Pandas and Numpy).
+## 🔍 Overview
 
+- **Kaggle Competitions**  
+  A playground showcasing my EDA and modeling notebooks for various Kaggle competitions.
+
+- **Machine Learning**  
+  Implements core ML algorithms from scratch, including:
+  - Multiple Linear Regression  
+  - Logistic Regression  
+  - Decision Trees  
+  - k-Nearest Neighbors (KNN)  
+  - Model Features Analysis
+
+---
+
+## ✨ Features
+
+- 📌 **Step-by-step implementations** of ML and DL algorithms using basic Python.
+- 🧠 **Theoretical insights**: Each algorithm is explained with supporting mathematical intuition.
+- 🧹 **Data preprocessing**: Efficient handling, cleaning, and feature engineering with Pandas.
+- 📊 **Model evaluation**: Techniques to assess model performance using standard metrics.
+- 🧪 While core implementations use only Pandas and Numpy, the repo also includes examples using **Scikit-Learn**, **TensorFlow** and **PyTorch** for comparison and scalability.
+
+
+---
