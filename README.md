@@ -3,7 +3,7 @@
 Documenting how to perform Machine Learning and Deep Learning from scratch only using Pandas and Numpy 
 
 ## Overview
-
+- **Kaggle Competions**: Playground of my kaggle competition Models and EDA notebooks  
 - **Machine Learning**: Includes algorithms such as multiple linear regression, logistic regression, decision trees, KNN, and more, all built from the ground up using basic Python libraries.
 - **Deep Learning**: Will explores fundamental neural networks, backpropagation, activation functions, optimization algorithms, and more, using only Numpy for matrix operations and Pandas for data handling.
 
