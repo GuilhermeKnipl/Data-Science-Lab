@@ -12,6 +12,12 @@ Most datasets featured in this repository originate from [Kaggle](https://www.ka
 - **Kaggle Competitions**  
   A playground showcasing my EDA and modeling notebooks for various Kaggle competitions.
 
+- **Econometrics**
+  - Moving Average
+      - Simple Moving Average(SMA)
+      - Exponential Moving Average(EMA)
+      - AR, MA, ARMA and ARIMA
+
 - **Machine Learning**  
   Implements core ML algorithms from scratch, including:
   - Multiple Linear Regression  
