@@ -1,6 +1,8 @@
-import regression
 import pandas as pd
 import numpy as np
+import os
+import sys
+from Math_From_Scratch import regression
 
 def ar_linear_regression(y:pd.Series, n_window: int) -> tuple[float,float]:
     # Returns the AR (coef,intercept)
