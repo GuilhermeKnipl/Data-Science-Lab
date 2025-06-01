@@ -1,15 +1,14 @@
 # Optimal Fertilizer Competition - Exploratory Analysis  
 
-**Competition type**: ``Kaggle Playground``<br>
-**EDA Progress**: ``In Progress``<br>
-**Modeling**: ``Not Started``
+**Competition type**: <code style="color:lightblue">Kaggle Playground</code><br>
+**EDA Progress**: <code style="color:orange">In Progress</code><br>
+**Modeling**: <code style="color:red">Not Started</code>
 
 ### **Summary of tools**:
-- Using **SQL** with ``duckdb`` to a less verbose on filtering and grouping
-- Plotting data with ``Matplotlib`` and ``Seaborn``
-- To modeling i'll use ``XGBoost, Catboost, Sklearn`` choosing the framework by best performance
-- For model optimization i'll use the ``Optuna``
-
+- Using **SQL** with <code style="color:yellow">duckdb</code> to a less verbose on filtering and grouping
+- Plotting data with <code style="color:yellow">Matplotlib & Seaborn</code>
+- To modeling i'll use <code style="color:yellow">XGBoost, Catboost, Sklearn</code> choosing the framework by best performance
+- For model optimization i'll use the <code style="color:yellow">Optuna</code>
 ## Numerical Data Distribution
 
 The **temperature** feature shows the most distinct periodic peaks, while **potassium** and **humidity** also exhibit periodic patterns, but with lower amplitude. In contrast, the other features display relatively uniform distributions with minor oscillations.
