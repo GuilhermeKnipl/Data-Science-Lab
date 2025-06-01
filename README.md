@@ -1,6 +1,11 @@
 # Data Science & Analysis Lab
 
-🚧 Working on this competition from **Child Mind Institute** for detecting anxiety behaviors with **Sensor data**: **[Click here to my check Analysis and Modeling](https://github.com/GuilhermeKnipl/Data-Science-Lab/tree/main/Kaggle%20Competitions/CMI%20Sensor%20Data)**
+## 🚧 Currently Working On
+
+I'm participating in a competition organized by the **Child Mind Institute**, focused on detecting anxiety-related behaviors using **sensor data**.
+
+👉 **[Click here to check my analysis and modeling](https://github.com/GuilhermeKnipl/Data-Science-Lab/tree/main/Kaggle%20Competitions/CMI%20Sensor%20Data)**
+
 ## Summary
 
 A hands-on guide to building **Machine Learning** and **Deep Learning** algorithms from scratch using only **Pandas** and **NumPy**, with a strong emphasis on **Exploratory Data Analysis (EDA)**.
