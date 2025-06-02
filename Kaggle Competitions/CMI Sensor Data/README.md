@@ -1,6 +1,6 @@
 # Optimal Fertilizer Competition - Exploratory Analysis  
 
-**Competition type**: ``Kaggle Playground``<br>
+**Competition type**: ``Kaggle Featured``<br>
 **EDA Progress**: ``In Progress``<br>
 **Modeling**: ``Not Started``<br>
 
