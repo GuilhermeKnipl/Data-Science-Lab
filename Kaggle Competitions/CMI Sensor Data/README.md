@@ -2,7 +2,8 @@
 
 **Competition type**: ``Kaggle Featured``<br>
 **EDA Progress**: ``In Progress``<br>
-**Modeling**: ``Not Started``<br>
+**Modeling**: ``XGBoost Classifier``<br>
+  - **Model Score**: ``0.430``
 
 Competition link: **[CMI - Detect Behavior With Sensor Data](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data)**
 
