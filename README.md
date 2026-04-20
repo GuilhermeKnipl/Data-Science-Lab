@@ -1,6 +1,6 @@
 # Data Science & Analysis Lab
 
-## 🚧 Currently Working On
+## Last Kaggle Competiton (2025)
 
 I'm participating in a competition organized by the **Child Mind Institute**, focused on detecting anxiety-related behaviors using **sensor data**.
 
