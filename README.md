@@ -2,7 +2,7 @@
 
 ## Last Kaggle Competiton (2025)
 
-I'm participating in a competition organized by the **Child Mind Institute**, focused on detecting anxiety-related behaviors using **sensor data**.
+I Was participating in a competition organized by the **Child Mind Institute**, focused on detecting anxiety-related behaviors using **sensor data**.
 
 👉 **[Click here to check my analysis and modeling](https://github.com/GuilhermeKnipl/Data-Science-Lab/tree/main/Kaggle%20Competitions/CMI%20Sensor%20Data)**
 
