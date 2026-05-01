@@ -1,4 +1,4 @@
-# Optimal Fertilizer Competition - Exploratory Analysis  
+# Exploratory Analysis  
 
 **Competition type**: ``Kaggle Featured``<br>
 **EDA Progress**: ``In Progress``<br>
